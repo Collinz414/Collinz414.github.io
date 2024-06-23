@@ -1,4 +1,3 @@
-
 1. Collin Zolnoski, anatra414@gmail.com
 2. My GitHub accounts name is Collinz414
 3. I created a respository named Collinz414.github.io and it made a notepad that i am typing in now
